@@ -1,0 +1,24 @@
+securepass-manager/
+│
+├── main.py                    # Application entry point
+├── requirements.txt
+├── icons/
+│   ├── app_icon.ico
+│   └── app_icon.png
+│
+├── src/
+│   ├── __init__.py
+│   ├── app.py                # Main application class
+│   ├── auth.py               # Authentication and encryption
+│   ├── ui.py                 # UI components and screens
+│   ├── database.py           # Data storage and retrieval
+│   ├── password_generator.py # Password generation
+│   ├── clipboard.py          # Clipboard operations
+│   └── utils.py              # Utility functions
+│
+├── config/
+│   ├── __init__.py
+│   └── settings.json
+│
+└── data/
+    └── passwords.dat

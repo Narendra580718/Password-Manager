@@ -1,0 +1,23 @@
+{
+  "app": {
+    "version": "1.0.0",
+    "first_run": true,
+    "theme": "dark",
+    "language": "en"
+  },
+  "security": {
+    "clear_clipboard": true,
+    "clipboard_timeout": 30,
+    "auto_lock": true,
+    "lock_timeout": 300
+  },
+  "ui": {
+    "font_size": 12,
+    "font_family": "Segoe UI",
+    "animations": true
+  },
+  "auth": {
+    "salt": "PTbKgNKEaZLvMBtb8tkF1g==",
+    "password_hash": "1Hbzyvt23sfaqJQN8C0EX2+Pee0Lu1tAPPOfeiu9V2vkilwLiYBbSe39Jm2dIXxbmgi6JS8ecmSjC1JMF/dHOw=="
+  }
+}
